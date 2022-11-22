@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+  <meta charset="utf-8">
+  <title>JS Bin</title>
+</head>
+<body>
+  div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+<div style = "position:relative; left:80px; top:2px; background-color:yellow;">
+ <div style="background-color:
+yellow">
+<h2>Link Button</h2>
+
+<p>A link styled as a button:</p>
+<a href="default.asp" target="_blank">This is a link</a>
+   <p>Click the button to change the background color of this paragraph.</p>
+ <button>Click me!</button>
+</div>
+</body>
+</html>
